@@ -1,5 +1,2 @@
-
-hola modificando desde rama master
-
-hola como están jaja salu2
+hola como estas ya resolviendo el conflicto :D
 
